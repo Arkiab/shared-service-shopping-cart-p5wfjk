@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": "001",
+      "name": "",
+      "price": 190,
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/e02d3799-6d2f-422a-b3cc-424b0faa046b/air-zoom-infinity-tour-next-herren-golfschuh-40Bmh8.png",
+      "description": "Der Nike Air Force 1 '07 LV8 hat nichts von seiner Ausstrahlung verloren."
+    },
+    {
+      "id": "002",
+      "name": "",
+      "price": 150,
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/35e4608f-5ac5-474f-8498-2ff32483258c/air-max-terrascape-90-herrenschuh-7KCxlX.png",
+      "description": "Der Nike Air Force 1 '07 LV8 hat nichts von seiner Ausstrahlung verloren."
+    },
+    {
+      "id": "003",
+      "name": "",
+      "price": 90,
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/b6ac4312-9ab1-471d-98b4-cabbd6148a37/air-max-plus-3-herrenschuh-fr4K9v.png",
+      "description": "Der Nike Air Force 1 '07 LV8 hat nichts von seiner Ausstrahlung verloren."
+    },
+    {
+      "id": "004",
+      "name": "",
+      "price": 70,
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/cfa3a9e0-5825-4fb5-94b7-d15a41533d0b/metcon-7-trainingsschuhe-CHLK3h.png",
+      "description": "Der Nike Air Force 1 '07 LV8 hat nichts von seiner Ausstrahlung verloren."
+    },
+    {
+      "id": "005",
+      "name": "",
+      "price": 75,
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/i1-81c51f64-45c7-4aef-b1c6-d9799761c71e/air-jordan-1-low-herrenschuh-bGC8s3.png",
+      "description": "Der Nike Air Force 1 '07 LV8 hat nichts von seiner Ausstrahlung verloren."
+    },
+    {
+      "id": "006",
+      "name": "",
+      "price": 80,
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/bc61e3f3-a5bb-4b88-92d1-94d03f7a7f57/air-force-1-07-lv8-herrenschuh-KkS3Cf.png",
+      "description": "Der Nike Air Force 1 '07 LV8 hat nichts von seiner Ausstrahlung verloren."
+    }
+  ]
+}
